@@ -1,0 +1,2 @@
+The java command-line argument is an argument i.e. passed at the time of running the java program.
+The arguments passed from the console can be received in the java program.

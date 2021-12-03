@@ -1,0 +1,24 @@
+count of   is :28
+count of a is :17
+count of b is :1
+count of c is :4
+count of d is :4
+count of e is :19
+count of f is :2
+count of g is :6
+count of h is :6
+count of i is :7
+count of j is :3
+count of l is :2
+count of m is :9
+count of - is :1
+count of n is :12
+count of . is :4
+count of o is :7
+count of p is :4
+count of r is :10
+count of s is :7
+count of T is :2
+count of t is :9
+count of u is :4
+count of v is :4
